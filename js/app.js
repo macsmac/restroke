@@ -1,0 +1,1 @@
+let RestrokeEditor = new Editor(document.getElementById('canvas'), 512, 512)
